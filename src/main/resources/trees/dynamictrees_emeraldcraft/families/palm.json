@@ -1,0 +1,14 @@
+{
+  "type": "palm",
+  "common_leaves": "dynamictrees_emeraldcraft:palm",
+  "common_species": "dynamictrees_emeraldcraft:palm",
+  "primitive_log": "emeraldcraft:palm_log",
+  "primitive_stripped_log": "emeraldcraft:stripped_palm_log",
+  "max_branch_radius": 8,
+  "texture_overrides": {
+    "branch": "dynamictrees_emeraldcraft:block/palm_bark",
+    "branch_top": "dynamictrees_emeraldcraft:block/palm_rings",
+    "stripped_branch": "dynamictrees_emeraldcraft:block/stripped_palm_bark",
+    "stripped_branch_top": "dynamictrees_emeraldcraft:block/stripped_palm_rings"
+  }
+}

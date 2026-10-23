@@ -1,0 +1,14 @@
+{
+  "type": "nether_fungus",
+  "common_leaves": "dynamictrees_emeraldcraft:purpuraceus",
+  "common_species": "dynamictrees_emeraldcraft:purpuraceus",
+  "primitive_log": "emeraldcraft:purpuraceus_stem",
+  "primitive_stripped_log": "emeraldcraft:stripped_purpuraceus_stem",
+  "max_branch_radius": 24,
+  "texture_overrides": {
+    "branch": "dynamictrees_emeraldcraft:block/purpuraceus_bark",
+    "branch_top": "dynamictrees_emeraldcraft:block/purpuraceus_rings",
+    "stripped_branch": "dynamictrees_emeraldcraft:block/stripped_purpuraceus_bark",
+    "stripped_branch_top": "dynamictrees_emeraldcraft:block/stripped_purpuraceus_rings"
+  }
+}

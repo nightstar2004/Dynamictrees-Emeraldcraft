@@ -1,0 +1,8 @@
+{
+  "parent": "dynamictrees:block/smartmodel/mushroom_round",
+  "render_type": "minecraft:cutout_mipped",
+  "textures": {
+    "cap": "dynamictrees_emeraldcraft:block/purpuraceus_cap",
+    "stem": "dynamictrees_emeraldcraft:block/purpuraceus_cap"
+  }
+}

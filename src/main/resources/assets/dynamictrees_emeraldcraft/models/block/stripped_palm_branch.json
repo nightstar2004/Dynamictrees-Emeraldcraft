@@ -1,0 +1,7 @@
+{
+  "loader": "dynamictrees:branch",
+  "textures": {
+    "bark": "dynamictrees_emeraldcraft:block/stripped_palm_bark",
+    "rings": "dynamictrees_emeraldcraft:block/stripped_palm_rings"
+  }
+}

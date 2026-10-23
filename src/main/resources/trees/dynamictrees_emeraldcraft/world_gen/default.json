@@ -1,0 +1,54 @@
+[
+  {
+    "_comment": "银杏：在 EmeraldCraft 的银杏林生物群系中替换 EC 原版静态银杏树。写法对齐 DT-BOP 为 TerraBlender 生物群系做世界生成替换的主力写法（纯 random，不用 splice_before）。",
+    "select": { "name": "emeraldcraft:ginkgo_forest" },
+    "apply": {
+      "species": {
+        "random": {
+          "dynamictrees_emeraldcraft:ginkgo": 1
+        }
+      },
+      "density": 1.0,
+      "chance": 1.0
+    }
+  },
+  {
+    "_comment": "棕榈：在 EmeraldCraft 的棕榈海滩生物群系中替换 EC 原版棕榈树。",
+    "select": { "name": "emeraldcraft:palm_beach" },
+    "apply": {
+      "species": {
+        "random": {
+          "dynamictrees_emeraldcraft:palm": 1
+        }
+      },
+      "density": 1.0,
+      "chance": 1.0
+    }
+  },
+  {
+    "_comment": "桃树：在 EmeraldCraft 的 xanadu 生物群系（桃树自然生成地）中替换 EC 原版桃树。",
+    "select": { "name": "emeraldcraft:xanadu" },
+    "apply": {
+      "species": {
+        "random": {
+          "dynamictrees_emeraldcraft:peach": 1
+        }
+      },
+      "density": 1.0,
+      "chance": 1.0
+    }
+  },
+  {
+    "_comment": "紫菌木：在 EmeraldCraft 的紫菌沼泽（下界菌类生物群系）中替换 EC 原版紫菌真菌。",
+    "select": { "name": "emeraldcraft:purpuraceus_swamp" },
+    "apply": {
+      "species": {
+        "random": {
+          "dynamictrees_emeraldcraft:purpuraceus": 1
+        }
+      },
+      "density": 1.0,
+      "chance": 1.0
+    }
+  }
+]

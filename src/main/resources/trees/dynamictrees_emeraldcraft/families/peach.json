@@ -1,0 +1,13 @@
+{
+  "common_leaves": "dynamictrees_emeraldcraft:peach",
+  "common_species": "dynamictrees_emeraldcraft:peach",
+  "primitive_log": "emeraldcraft:peach_log",
+  "primitive_stripped_log": "emeraldcraft:stripped_peach_log",
+  "max_branch_radius": 8,
+  "texture_overrides": {
+    "branch": "dynamictrees_emeraldcraft:block/peach_bark",
+    "branch_top": "dynamictrees_emeraldcraft:block/peach_rings",
+    "stripped_branch": "dynamictrees_emeraldcraft:block/stripped_peach_bark",
+    "stripped_branch_top": "dynamictrees_emeraldcraft:block/stripped_peach_rings"
+  }
+}

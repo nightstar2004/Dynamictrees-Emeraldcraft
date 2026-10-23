@@ -1,0 +1,7 @@
+{
+  "parent": "dynamictrees:item/branch",
+  "textures": {
+    "bark": "dynamictrees_emeraldcraft:block/purpuraceus_bark",
+    "rings": "dynamictrees_emeraldcraft:block/purpuraceus_rings"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "block.dynamictrees_emeraldcraft.ginkgo_branch": "Ginkgo Tree",
+  "block.dynamictrees_emeraldcraft.palm_branch": "Palm Tree",
+  "block.dynamictrees_emeraldcraft.peach_branch": "Peach Tree",
+  "block.dynamictrees_emeraldcraft.purpuraceus_branch": "Purpuraceus Fungus",
+  "species.dynamictrees_emeraldcraft.ginkgo": "Ginkgo",
+  "species.dynamictrees_emeraldcraft.palm": "Palm",
+  "species.dynamictrees_emeraldcraft.peach": "Peach",
+  "species.dynamictrees_emeraldcraft.purpuraceus": "Purpuraceus",
+  "item.dynamictrees_emeraldcraft.ginkgo_seed": "Ginkgo Seeds",
+  "item.dynamictrees_emeraldcraft.palm_seed": "Palm Seed",
+  "item.dynamictrees_emeraldcraft.peach_seed": "Peach Pit",
+  "item.dynamictrees_emeraldcraft.purpuraceus_seed": "Purpuraceus Cap"
+}

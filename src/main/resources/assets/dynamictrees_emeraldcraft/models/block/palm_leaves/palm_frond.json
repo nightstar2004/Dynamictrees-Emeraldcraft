@@ -1,0 +1,6 @@
+{
+  "loader": "dynamictrees:large_palm_fronds",
+  "textures": {
+    "frond": "emeraldcraft:block/palm_leaves"
+  }
+}

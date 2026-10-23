@@ -1,0 +1,34 @@
+[
+  {
+    "_comment": "取消 EmeraldCraft 银杏原版树。EC 的 ginkgo feature 顶层是 minecraft:random_selector（见 EC configured_feature/trees_ginkgo.json），里层 ginkgo/ginkgo_tall 才是 minecraft:tree；TreeFeatureCanceller 会穿透 random_selector 匹配到里层的 minecraft:tree 类型，因此 namespace 写 minecraft。select 用 name 精确匹配 EC 生物群系（与 DT 内置 feature_cancellers 的写法对齐：不用 stage、不用 names_or）。",
+    "select": { "name": "emeraldcraft:ginkgo_forest" },
+    "cancellers": {
+      "type": "tree",
+      "namespace": "minecraft"
+    }
+  },
+  {
+    "_comment": "取消 EmeraldCraft 棕榈原版树（trees_palm -> random_selector -> palm/palm_tall -> minecraft:tree）。",
+    "select": { "name": "emeraldcraft:palm_beach" },
+    "cancellers": {
+      "type": "tree",
+      "namespace": "minecraft"
+    }
+  },
+  {
+    "_comment": "取消 EmeraldCraft 桃树原版树（trees_peach -> random_selector -> peach/peach_bees -> minecraft:tree）。",
+    "select": { "name": "emeraldcraft:xanadu" },
+    "cancellers": {
+      "type": "tree",
+      "namespace": "minecraft"
+    }
+  },
+  {
+    "_comment": "取消 EmeraldCraft 紫菌真菌。EC 的 purpuraceus_fungus 直接是 minecraft:huge_fungus 类型（见 EC configured_feature/purpuraceus_fungus.json），FungusFeatureCanceller 匹配 feature 类型命名空间 minecraft。",
+    "select": { "name": "emeraldcraft:purpuraceus_swamp" },
+    "cancellers": {
+      "type": "fungus",
+      "namespace": "minecraft"
+    }
+  }
+]

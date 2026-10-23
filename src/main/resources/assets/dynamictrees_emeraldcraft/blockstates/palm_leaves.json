@@ -1,0 +1,44 @@
+{
+  "multipart": [
+    {
+      "apply": {
+        "model": "dynamictrees_emeraldcraft:block/palm_leaves/palm_frond"
+      },
+      "when": {
+        "distance": "1|2"
+      }
+    },
+    {
+      "apply": {
+        "model": "dynamictrees_emeraldcraft:block/palm_leaves/palm_core_top"
+      },
+      "when": {
+        "distance": "3"
+      }
+    },
+    {
+      "apply": {
+        "model": "dynamictrees_emeraldcraft:block/palm_leaves/palm_core_bottom"
+      },
+      "when": {
+        "distance": "4"
+      }
+    },
+    {
+      "apply": {
+        "model": "emeraldcraft:block/palm_leaves"
+      },
+      "when": {
+        "OR": [
+          {
+            "direction": "0",
+            "distance": "1|2"
+          },
+          {
+            "distance": "5|6|7"
+          }
+        ]
+      }
+    }
+  ]
+}

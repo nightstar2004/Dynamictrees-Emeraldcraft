@@ -1,0 +1,7 @@
+{
+  "loader": "dynamictrees:branch",
+  "textures": {
+    "bark": "dynamictrees_emeraldcraft:block/peach_bark",
+    "rings": "dynamictrees_emeraldcraft:block/peach_rings"
+  }
+}

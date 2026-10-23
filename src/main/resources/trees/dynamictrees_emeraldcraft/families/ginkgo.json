@@ -1,0 +1,13 @@
+{
+  "common_leaves": "dynamictrees_emeraldcraft:ginkgo",
+  "common_species": "dynamictrees_emeraldcraft:ginkgo",
+  "primitive_log": "emeraldcraft:ginkgo_log",
+  "primitive_stripped_log": "emeraldcraft:stripped_ginkgo_log",
+  "max_branch_radius": 8,
+  "texture_overrides": {
+    "branch": "dynamictrees_emeraldcraft:block/ginkgo_bark",
+    "branch_top": "dynamictrees_emeraldcraft:block/ginkgo_rings",
+    "stripped_branch": "dynamictrees_emeraldcraft:block/stripped_ginkgo_bark",
+    "stripped_branch_top": "dynamictrees_emeraldcraft:block/stripped_ginkgo_rings"
+  }
+}

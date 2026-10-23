@@ -1,0 +1,8 @@
+{
+  "parent": "dynamictrees:block/smartmodel/sapling",
+  "render_type": "minecraft:cutout_mipped",
+  "textures": {
+    "leaves": "emeraldcraft:block/ginkgo_leaves",
+    "log": "dynamictrees_emeraldcraft:block/ginkgo_bark"
+  }
+}

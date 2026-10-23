@@ -1,0 +1,14 @@
+{
+  "block.dynamictrees_emeraldcraft.ginkgo_branch": "银杏树",
+  "block.dynamictrees_emeraldcraft.palm_branch": "棕榈树",
+  "block.dynamictrees_emeraldcraft.peach_branch": "桃树",
+  "block.dynamictrees_emeraldcraft.purpuraceus_branch": "紫菌真菌",
+  "species.dynamictrees_emeraldcraft.ginkgo": "银杏",
+  "species.dynamictrees_emeraldcraft.palm": "棕榈",
+  "species.dynamictrees_emeraldcraft.peach": "桃树",
+  "species.dynamictrees_emeraldcraft.purpuraceus": "紫菌木",
+  "item.dynamictrees_emeraldcraft.ginkgo_seed": "银杏种子",
+  "item.dynamictrees_emeraldcraft.palm_seed": "棕榈果",
+  "item.dynamictrees_emeraldcraft.peach_seed": "桃核",
+  "item.dynamictrees_emeraldcraft.purpuraceus_seed": "紫菌菌盖"
+}
